@@ -1,0 +1,81 @@
+# Core dependencies for Playbian Auto Typer & Clicker v2.1
+
+# GUI Framework (usually included with Python)
+# tkinter - Built-in with Python
+
+# Automation libraries
+pyautogui>=0.9.54
+keyboard>=1.13.0
+
+# API integration for AI features
+requests>=2.31.0
+
+# System monitoring (optional but recommended)
+psutil>=5.9.0
+
+# Image processing (for screenshot and image recognition features)
+Pillow>=10.0.0
+
+# JSON handling (built-in)
+# json - Built-in with Python
+
+# Threading and time (built-in)
+# threading - Built-in with Python
+# time - Built-in with Python
+
+# File operations (built-in)
+# os - Built-in with Python
+# pathlib - Built-in with Python
+
+# Logging (built-in)
+# logging - Built-in with Python
+
+# Development dependencies (optional)
+# For developers who want to contribute or modify the code
+
+# Code formatting
+black>=23.0.0
+
+# Linting
+flake8>=6.0.0
+
+# Type checking
+mypy>=1.5.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Documentation
+sphinx>=7.1.0
+
+# Build tools
+setuptools>=68.0.0
+wheel>=0.41.0
+
+# Virtual environment management
+virtualenv>=20.24.0
+
+# Note: Some dependencies are optional based on features used:
+# - requests: Only needed if using AI integration features
+# - psutil: Only needed for system monitoring features
+# - Pillow: Only needed for advanced image operations
+# - Development dependencies: Only needed for development work
+
+# Minimum Python version: 3.8+
+# Recommended Python version: 3.9+
+# Tested on Python versions: 3.8, 3.9, 3.10, 3.11, 3.12
+
+# Platform compatibility:
+# - Windows 10/11 (Recommended)
+# - macOS 10.15+ (Catalina and later)
+# - Linux (Ubuntu 20.04+, Fedora 35+, and other modern distributions)
+
+# Installation command:
+# pip install -r requirements.txt
+
+# For minimal installation (core features only):
+# pip install pyautogui keyboard
+
+# For full installation with all features:
+# pip install -r requirements.txt
