@@ -281,13 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Modern UI inspiration** - Various design systems and frameworks
 - **Community feedback** - User suggestions and bug reports
 
-## 📞 Support
-
-- **Documentation**: [Wiki](https://github.com/yourusername/playbian-auto-typer/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/playbian-auto-typer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/playbian-auto-typer/discussions)
-- **Email**: support@playbian.com
-
 ## 🔄 Version History
 
 ### v2.1 (Current)
